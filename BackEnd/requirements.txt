@@ -1,0 +1,57 @@
+# ============================================================================
+# Crop Disease Chatbot Backend - Python Dependencies
+# ============================================================================
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+werkzeug==3.0.1
+
+# Machine Learning
+torch==2.1.2
+transformers==4.36.2
+accelerate==0.25.0
+peft==0.7.1
+
+# Model Loading (Choose one based on your model format)
+safetensors==0.4.1
+bitsandbytes==0.41.3  # For 4-bit quantization
+
+# Utilities
+requests==2.31.0
+numpy==1.26.3
+pandas==2.1.4
+
+# ngrok (Optional - for public tunneling)
+pyngrok==7.0.5
+
+# Logging
+colorlog==6.8.0
+
+# ============================================================================
+# INSTALLATION NOTES
+# ============================================================================
+
+# OPTION 1: CPU-only (No GPU)
+# pip install torch==2.1.2 --index-url https://download.pytorch.org/whl/cpu
+
+# OPTION 2: CUDA 11.8 (NVIDIA GPU)
+# pip install torch==2.1.2 --index-url https://download.pytorch.org/whl/cu118
+
+# OPTION 3: CUDA 12.1 (Newer NVIDIA GPU)
+# pip install torch==2.1.2 --index-url https://download.pytorch.org/whl/cu121
+
+# ============================================================================
+# GOOGLE COLAB
+# ============================================================================
+# In Colab, these are usually pre-installed:
+# - torch, transformers
+# Just install: flask flask-cors pyngrok
+
+# ============================================================================
+# VERIFY INSTALLATION
+# ============================================================================
+# python -c "import torch; print(f'PyTorch: {torch.__version__}')"
+# python -c "import transformers; print(f'Transformers: {transformers.__version__}')"
+# python -c "import flask; print(f'Flask: {flask.__version__}')"

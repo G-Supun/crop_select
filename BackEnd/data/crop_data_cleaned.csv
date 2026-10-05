@@ -1,0 +1,176 @@
+Crop,Local_Name,Disease or Pest name,Symptom,Solution
+Apple,Apple,Apple Scab,Velvety olive-green spots on leaves turning black. Scab-like rough spots on fruit.,Spray Captan or Mancozeb. Prune and burn infected branches. Clean fallen leaves.
+Apple,Apple,Woolly Aphid,"White cotton-like masses on twigs, branches, and roots. Galls on roots.",Spray Chlorpyrifos or Dimethoate. Apply granules to soil for root control. Use resistant rootstocks.
+Apple,Apple,Powdery Mildew,White powdery fungal growth on leaves and shoots. Leaves curl and wither.,Spray Wettable Sulphur or Karathane. Prune infected shoots.
+Apple,Apple,Oriental Fruit Fly,Maggots feed inside the fruit causing rotting and fruit drop.,Use Methyl Eugenol pheromone traps. Bag fruits. Collect and destroy fallen fruits.
+Apple,Apple,Scale Insects,"Small, hard, shell-like insects on bark and fruit. Sucking sap causes dieback.",Spray Horticultural Oil or Imidacloprid. Prune heavily infested branches.
+Apple,Apple,Spider Mites,Leaves turn bronze or yellow. Fine webbing on undersides of leaves.,Spray Abamectin or Wettable Sulphur. Avoid water stress.
+Apple,Apple,Stem Canker / Dieback,Bark darkens and cracks. Branches die from tip downwards.,Cut infected branches below the canker. Apply Copper paste to cuts.
+Apple,Apple,Root Rot (Phytophthora),"Yellowing leaves, stunted growth. Brown discoloration under bark at soil line.",Improve drainage. Drench soil with Metalaxyl or Copper fungicides.
+Rice,Wee,Rice Blast,Spindle-shaped spots with brown margins and ashy centers. Neck rot causes panicle to fall over.,Apply Tebuconazole 250 EC or Isoprothiolane 400 EC. Use resistant varieties like Bg 403.
+Rice,Wee,Brown Plant Hopper,Hopper burn symptoms (circular yellow patches turning brown/dry). Insects found at plant base.,Drain water from the field. Avoid excessive Urea. Spray Etofenprox or Buprofezin.
+Rice,Wee,Rice Leaffolder,Leaves folded longitudinally and larvae feed inside. White transparent streaks on leaves.,Release Trichogramma parasites. Apply Chlorantraniliprole (Coragen) if damage exceeds threshold.
+Rice,Wee,Bacterial Leaf Blight,Water-soaked streaks on leaf edges turning yellow/white. 'Kresek' wilting in seedlings.,Use resistant varieties. Avoid high Nitrogen fertilizer. Drain the field. Apply copper-based fungicides.
+Rice,Wee,Sheath Blight,Oval grey-green spots on leaf sheath near waterline. Snake-skin pattern lesions.,Apply Hexaconazole or Validamycin. Keep bunds clean. Avoid overcrowding plants.
+Rice,Wee,Thrips,Leaves roll inwards and tips dry up. Silvery streaks on leaves.,Submerge crop for 24h. Apply Imidacloprid or Thiamethoxam.
+Rice,Wee,Rice Gall Midge,Formation of 'Silver Shoot' or 'Onion Shoot' instead of panicle.,Apply Carbofuran granules. Plant early to avoid peak infestation.
+Rice,Wee,Paddy Bug,Sucks milk from developing grains. Grains become empty or chaffy.,Keep surroundings weed-free. Apply Etofenprox or smell-based repellents at milking stage.
+Maize,Iringu,Fall Armyworm (Sena),Ragged holes in leaves. Sawdust-like frass in whorls. Larvae with 'Y' on head.,"Apply Spinetoram, Emamectin benzoate, or Chlorantraniliprole. Crush egg masses by hand."
+Maize,Iringu,Stem Borer,Pinholes in leaves (shot holes). Dead heart in young plants. Tunnels in stem.,Apply Carbofuran granules into leaf whorls. Intercrop with legumes.
+Maize,Iringu,Northern Leaf Blight,Long elliptical grey-green lesions on leaves. Leaves dry up like burnt.,Spray Mancozeb or Zineb. Use resistant hybrids.
+Maize,Iringu,Aphids,Colonies of green/black insects on tassels and leaves. Honeydew and sooty mold.,Spray Dimethoate or soap solution. Encourage ladybird beetles.
+Maize,Iringu,Common Rust,Powdery orange-brown pustules on both sides of leaves.,Spray Tebuconazole or Mancozeb. Destroy infected residues.
+Maize,Iringu,Cutworm,Seedlings cut at the base near soil level during the night.,Flood the field before planting. Apply Chlorpyrifos to soil.
+Maize,Iringu,Downy Mildew,Chlorotic streaks on leaves. Stunted growth and 'Crazy top' appearance.,Seed treatment with Metalaxyl. Remove and burn infected plants.
+Maize,Iringu,Weevils (Storage),Holes in stored grains. Powder accumulation in bags.,Dry grain to <12% moisture. Store in airtight bags or treat with Neem leaf.
+Banana,Kehel,Banana Bunchy Top,"Leaves become narrow, short, and upright (bunched). Dark green streaks on veins.",No cure. Inject Glyphosate to kill plant and remove completely to stop spread.
+Banana,Kehel,Panama Disease (Wilt),Yellowing of older leaves. Leaves hang down (skirt). Stem splitting.,Use resistant varieties (Cavendish). Improve drainage. Quarantine infected area.
+Banana,Kehel,Banana Weevil,Tunnels in the rhizome (corm). Plants weaken and topple over.,Use clean planting material. Dip suckers in Chlorpyrifos. Trap adults using cut stems.
+Banana,Kehel,Sigatoka Leaf Spot,Small dark spots on leaves enlarging to brown streaks with grey centers.,Remove infected leaves. Spray Propiconazole or Mancozeb.
+Banana,Kehel,Nematodes,Toppling of plants. Root knots or lesions. Stunted growth.,Dip suckers in hot water (55Â°C) before planting. Apply Neem cake.
+Banana,Kehel,Aphids,Colonies of insects on young leaves. Transmits Bunchy Top Virus.,Spray soap water or Imidacloprid. Remove alternate hosts.
+Banana,Kehel,Anthracnose,Black sunken spots on peel of ripening fruit. Salmon-colored ooze.,Wash fruits with Alum. Dip in hot water (50Â°C) after harvest.
+Banana,Kehel,Erwinia Rot,Soft rotting of the pseudostem with foul smell. Plant collapses.,Ensure good drainage. Remove affected plants. Avoid injury to trunk.
+Mango,Amba,Anthracnose,Dark brown spots on leaves/fruits. Flower blight (flowers turn black and drop).,Spray Mancozeb during flowering. Prune trees for airflow.
+Mango,Amba,Fruit Fly,Maggots inside fruit. Fruits rot and drop. Small puncture marks.,Use Methyl Eugenol pheromone traps. Wrap fruits in paper bags.
+Mango,Amba,Mango Hopper,Wedge-shaped insects suck sap from flowers. Sooty mold develops.,Spray Imidacloprid before flowering. Inject trunk with Monocrotophos (if recommended).
+Mango,Amba,Powdery Mildew,White powdery growth on flowers and young leaves. Flower drop.,Spray Wettable Sulphur or Hexaconazole.
+Mango,Amba,Stem Borer,Tunnels in trunk. Frass/sawdust at base. Branch dieback.,Clean tunnel with wire and inject Kerosene or insecticide. Seal with clay.
+Mango,Amba,Mango Mealybug,White waxy mass on fruit stalks and leaves. Sticky honeydew.,Release ladybird predators. Spray Neem oil or Buprofezin.
+Mango,Amba,Sooty Mold,Black velvet-like coating on leaves (grows on honeydew).,Control aphids/hoppers first. Wash with starch solution.
+Mango,Amba,Bacterial Canker,Water-soaked lesions on fruits/leaves which burst and release gum.,Spray Copper Oxychloride + Streptocycline. Prune infected parts.
+Papaya,Gaslabu,Papaya Mealybug,Cotton-like white masses on fruits/leaves. Plants stunted.,Release 'Acerophagus papayae' parasitoids (DOA rec). Do NOT spray harsh chemicals.
+Papaya,Gaslabu,Papaya Ringspot Virus,Dark green rings on fruit. Yellow mosaic pattern on leaves. Shoe-string leaves.,Remove and burn infected plants. Control aphids. No cure.
+Papaya,Gaslabu,Anthracnose,Sunken round brown spots on ripe fruit. Fruit rots.,Dip fruits in hot water (48Â°C) for 20 mins. Spray Mancozeb in field.
+Papaya,Gaslabu,Phytophthora Blight,Water-soaked spots on fruits/stems. White fungal growth. Stem rot.,Apply Metalaxyl. Improve drainage. Ridge planting.
+Papaya,Gaslabu,Red Spider Mite,Yellow stippling on leaves. Silky webs on undersides.,Spray Wettable Sulphur or Abamectin.
+Papaya,Gaslabu,Fruit Fly,Larvae infest ripening fruit causing rotting.,Harvest at color break. Use pheromone traps.
+Papaya,Gaslabu,Stem End Rot,Rotting starts at the stem end of the fruit.,Apply fungicide paste to cut stem. Handle fruits carefully.
+Papaya,Gaslabu,Root Rot,Yellowing of leaves. Roots decay and smell bad.,Avoid waterlogging. Drench soil with Copper fungicides.
+Coconut,Pol,Red Palm Weevil,Holes in trunk with chewing fiber. Oozing brown liquid. Crown wilting.,Install pheromone traps. Inject trunk with systemic insecticide (Monocrotophos).
+Coconut,Pol,Coconut Caterpillar,Leaves turn grey/brown and look burnt. Undersides have galleries.,Release parasitoids (Braconids). Cut and burn infested lower leaves.
+Coconut,Pol,Rhinoceros Beetle,V-shaped cuts on leaves. Holes in crown.,Use PVC pheromone traps. Apply Naphthalene balls to leaf axils.
+Coconut,Pol,Coconut Mite,Triangular pale patches on nut surface. Small/deformed nuts.,Apply Neem oil + Garlic mixture. Apply recommended acaricides.
+Coconut,Pol,Stem Bleeding,Reddish-brown liquid oozing from cracks in trunk.,Scoop out infected tissue and apply coal tar. Apply Neem cake to roots.
+Coconut,Pol,Bud Rot,Yellowing of young heart leaf. Spear leaf rots and pulls out easily.,Apply Bordeaux mixture to crown. Remove and burn dead palms.
+Coconut,Pol,Termites,Mud galleries on trunk. Damage to seedlings in nursery.,Drench soil with Chlorpyrifos or Imidacloprid.
+Coconut,Pol,Leaf Blight,Greyish brown spots on leaves. Leaves dry up.,Cut and burn infected leaves. Improve Potassium fertilizer.
+Grape,Midhi,Downy Mildew,Yellow oily spots on upper leaf. White cottony growth on underside.,Spray Ridomil Gold or Mancozeb. Prune for ventilation.
+Grape,Midhi,Powdery Mildew,White dusty powder on leaves and berries. Berries crack.,Spray Wettable Sulphur or Dinocap.
+Grape,Midhi,Anthracnose,Bird's eye spots (brown with grey center) on berries/leaves.,Spray Copper fungicides or Carbendazim.
+Grape,Midhi,Thrips,Scab-like corky lines on berries. Leaves curl.,Spray Fipronil or Spinosad. Remove weeds.
+Grape,Midhi,Mealybug,Sticky honeydew and white wax on bunches.,Spray Buprofezin. Control ants.
+Grape,Midhi,Grape Cane Borer,Shot holes in canes. Vine dieback.,Prune and burn infested canes.
+Grape,Midhi,Botrytis Bunch Rot,Grey mould on ripening berries. Berries rot.,Avoid injury to berries. Spray Fenhexamid.
+Grape,Midhi,Nutrient Deficiency,Interveinal yellowing (Magnesium) or leaf scorching (Potassium).,Apply Dolomite and Muriate of Potash based on soil test.
+Pomegranate,Delum,Fruit Borer (Anar Butterfly),Holes in fruit with excreta. Fruit rots and drops.,Bag fruits with paper. Spray Spinosad or Indoxacarb. Remove infested fruits.
+Pomegranate,Delum,Bacterial Blight (Oily Spot),Small water-soaked spots on leaves/fruits. Oily appearance. Cracking.,Spray Streptocycline + Copper Oxychloride. Prune heavily.
+Pomegranate,Delum,Fruit Cracking,Fruits crack open exposing arils. Not a pest (Abiotic).,Maintain regular irrigation. Spray Boron and Calcium.
+Pomegranate,Delum,Aphids,Suck sap from tender shoots. Sooty mold.,Spray Dimethoate or Neem oil.
+Pomegranate,Delum,Thrips,Scars on fruit rind reducing market value.,Spray Imidacloprid.
+Pomegranate,Delum,Wilt Complex,Yellowing of leaves. One branch dies followed by whole tree.,Drench soil with Carbendazim + Chlorpyrifos.
+Pomegranate,Delum,Anthracnose,Black spots on fruits and leaves.,Spray Mancozeb.
+Pomegranate,Delum,Mealybug,White mass on calyx of fruit.,Spray Profenofos or Neem oil.
+Watermelon,Komadu,Melon Fly,Maggots in fruit. Fruit rotting.,Use pheromone traps. Wrap fruits. Destroy fallen fruits.
+Watermelon,Komadu,Downy Mildew,Yellow angular spots on leaves. Leaves dry up.,Spray Metalaxyl or Mancozeb. Avoid overhead irrigation.
+Watermelon,Komadu,Thrips,Tips of vine curl up. Silvering of leaves.,Spray Fipronil or Spinosad.
+Watermelon,Komadu,Red Pumpkin Beetle,Orange beetles eat leaves causing holes. Larvae damage roots.,Apply Carbaryl dust. Hand pick beetles in morning.
+Watermelon,Komadu,Fusarium Wilt,One side of vine wilts. Vascular browning in stem.,Use resistant varieties. Graft onto pumpkin rootstock.
+Watermelon,Komadu,Bud Necrosis Virus,Buds die. Spotted fruit.,Control Thrips vector.
+Watermelon,Komadu,Leaf Miner,Serpentine tunnels (white lines) on leaves.,Spray Abamectin.
+Watermelon,Komadu,Gummy Stem Blight,Brown gummy ooze from stem. Leaves yellow.,Spray Chlorothalonil.
+Muskmelon,Kekiri,Downy Mildew,Angular yellow spots limited by veins.,Spray Mancozeb or Metalaxyl.
+Muskmelon,Kekiri,Powdery Mildew,White powder on leaves.,Spray Sulphur.
+Muskmelon,Kekiri,Melon Fly,Maggots bore into fruit.,Use Cue-lure traps.
+Muskmelon,Kekiri,Aphids,Leaves curl and yellow. Honeydew.,Spray Imidacloprid.
+Muskmelon,Kekiri,Fruit Rot,Fruit decays in contact with soil.,Use mulch to keep fruit off soil.
+Muskmelon,Kekiri,Cucumber Mosaic Virus,Mottled yellow/green leaves. Stunted.,Control aphids. Remove infected plants.
+Muskmelon,Kekiri,Leaf Miner,White trails on leaves.,Neem oil spray.
+Muskmelon,Kekiri,Spider Mites,Webbing on undersides. Leaves yellow.,Spray Abamectin.
+Orange,Dodam,Citrus Greening,"Mottled leaves (asymmetrical yellowing). Green, bitter, deformed fruit.",Control Psyllid vector. Remove infected trees. No cure.
+Orange,Dodam,Citrus Canker,Corky raised lesions on fruit/leaves with yellow halo.,Spray Copper fungicides. Prune infected twigs.
+Orange,Dodam,Leaf Miner,Silvery tunnels on young leaves. Leaves curl.,Spray Abamectin or Spinosad on new flush.
+Orange,Dodam,Gummosis,Gum oozing from bark. Bark rotting at base.,Scrape bark and apply Bordeaux paste. Drench soil with Metalaxyl.
+Orange,Dodam,Fruit Fly,Larvae inside fruit. Fruit drop.,Protein bait sprays. Pheromone traps.
+Orange,Dodam,Lemon Butterfly,Caterpillar eats leaves (Bird dropping stage & Green stage).,Hand pick larvae. Spray BT or Carbaryl.
+Orange,Dodam,Aphids,Black/Green insects on new flush. Transmits Tristeza virus.,Spray Dimethoate.
+Orange,Dodam,Sooty Mold,Black coating on leaves.,Control aphids/scales. Wash with oil/soap.
+Mung Bean,Mun,Yellow Mosaic Virus,Bright yellow patches on leaves. Stunted plants.,Control Whitefly vector with Imidacloprid. Grow resistant varieties (MI 6).
+Mung Bean,Mun,Pod Borer,Larvae bore holes in pods.,Spray Thiodicarb or Spinosad.
+Mung Bean,Mun,Powdery Mildew,White powder on leaves.,Spray Sulphur.
+Mung Bean,Mun,Anthracnose,Brown sunken spots on pods.,Spray Mancozeb.
+Mung Bean,Mun,Bean Fly,Seedlings wilt. Stem swollen/cracked at base.,Seed treatment with Imidacloprid.
+Mung Bean,Mun,Blister Beetle,Beetles eat flowers reducing yield.,Hand pick (wear gloves). Smoke the field.
+Mung Bean,Mun,Cercospora Leaf Spot,Circular brown spots on leaves.,Spray Carbendazim.
+Chickpea,Kadala,Ascochyta Blight,Circular spots with dark brown margins and black dots.,Apply Chlorothalonil or Mancozeb.
+Chickpea,Kadala,Fusarium Wilt,Leaves droop and turn yellow. Internal stem discoloration.,Treat seeds with Trichoderma. Deep ploughing.
+Chickpea,Kadala,Pod Borer,Larvae feed on leaves and bore into pods eating seeds.,Install pheromone traps. Spray Emamectin benzoate.
+Chickpea,Kadala,Dry Root Rot,Plants dry up suddenly. Roots are brittle.,Avoid moisture stress. Treat seeds with Carbendazim.
+Chickpea,Kadala,Botrytis Grey Mould,Grey fungal mass on flowers and pods.,Wider spacing. Spray Carbendazim.
+Chickpea,Kadala,Cutworm,Young seedlings cut at ground level.,Apply Chlorpyrifos dust to soil.
+Chickpea,Kadala,Collar Rot,Rotting of stem at soil surface.,Seed treatment with Thiram.
+Chickpea,Kadala,Stunt Virus,Plants stunted. Leaves turn reddish-brown.,Control aphids.
+Coffee,Kopi,Coffee Leaf Rust,Orange-yellow powdery spots on undersides of leaves.,Spray Bordeaux mixture. Prune shade trees.
+Coffee,Kopi,Coffee Berry Borer,Small hole near the tip of the berry.,Use alcohol traps. Harvest continuously.
+Coffee,Kopi,Anthracnose,Twigs dry from tip downwards.,Prune infected twigs. Spray Copper fungicides.
+Coffee,Kopi,Root Mealybug,Plants yellow and wilt. White waxy mass on roots.,Drench soil with Chlorpyrifos.
+Coffee,Kopi,Green Scale,Green flat insects on leaves.,Control ants. Spray Imidacloprid.
+Coffee,Kopi,Stem Borer,Ridges on trunk. Yellowing leaves.,Scrub stem. Fumigate hole.
+Coffee,Kopi,Nematodes,Root knots. Yellowing.,Apply Neem cake.
+Coffee,Kopi,Black Rot,Blackening of leaves/berries.,Prune. Spray Carbendazim.
+Cotton,Kapu,Cotton Aphid,Insects suck sap. Sticky honeydew.,Spray Imidacloprid.
+Cotton,Kapu,Bacterial Blight,Angular water-soaked spots. Black arm lesions.,Acid delinting of seeds. Spray Copper.
+Cotton,Kapu,Pink Bollworm,Larvae feed inside bolls.,Use pheromone traps. Grow BT cotton.
+Cotton,Kapu,Leaf Curl Virus,Upward curling and thickening of leaves.,Control whitefly.
+Cotton,Kapu,Mealybug,White waxy mass on stems.,Spray Profenofos.
+Cotton,Kapu,Jassids,Leaf margins turn yellow and curl.,Spray Thiamethoxam.
+Cotton,Kapu,Spotted Bollworm,Larvae bore into shoots.,Remove infested shoots.
+Cotton,Kapu,Fusarium Wilt,Leaves yellow and drop.,Use resistant varieties.
+Jute,Jute,Stem Rot,Black band on stem. Plants wilt.,Treat seeds with Carbendazim.
+Jute,Jute,Jute Mosaic,Yellow mottling. Stunted growth.,Control whiteflies.
+Jute,Jute,Hairy Caterpillar,Larvae skeletonize leaves.,Spray Chlorpyrifos.
+Jute,Jute,Semilooper,Larvae feed on apical leaves.,Spray Neem oil.
+Jute,Jute,Stem Weevil,Knot-like gall on stem.,Spray Diazinon.
+Jute,Jute,Anthracnose,Sunken spots on stem.,Spray Copper Oxychloride.
+Jute,Jute,Nematode,Galls on roots.,Apply Neem cake.
+Jute,Jute,Yellow Mite,Leaves curl downwards.,Spray Dicofol.
+Lentil,Masoor Parippu,Ascochyta Blight,Grey to tan spots on leaflets.,Use disease-free seeds.
+Lentil,Masoor Parippu,Lentil Rust,Orange-brown pustules.,Spray Sulphur.
+Lentil,Masoor Parippu,Fusarium Wilt,Sudden drooping.,Treat seeds with Trichoderma.
+Lentil,Masoor Parippu,Collar Rot,Seedlings rot at soil level.,Treat seeds with Thiram.
+Lentil,Masoor Parippu,Grey Mould,Grey mouldy growth.,Space plants wider.
+Lentil,Masoor Parippu,Aphids,Sucking sap.,Spray Neem oil.
+Lentil,Masoor Parippu,Pod Borer,Holes in pods.,Spray Spinosad.
+Lentil,Masoor Parippu,Powdery Mildew,White patches.,Spray Sulphur.
+Pigeon Pea,Thora Parippu,Fusarium Wilt,Yellowing of lower leaves.,Grow wilt-resistant varieties.
+Pigeon Pea,Thora Parippu,Sterility Mosaic,"Bushy, stunted plants.",Control mites.
+Pigeon Pea,Thora Parippu,Pod Borer,Larvae eat seeds.,Use pheromone traps.
+Pigeon Pea,Thora Parippu,Phytophthora Blight,Brown necrotic spots.,Ensure drainage.
+Pigeon Pea,Thora Parippu,Pod Fly,Maggots inside seeds.,Spray Monocrotophos.
+Pigeon Pea,Thora Parippu,Leaf Spot,Brown circular spots.,Spray Mancozeb.
+Pigeon Pea,Thora Parippu,Webworm,Larvae web leaves.,Spray Chlorpyrifos.
+Pigeon Pea,Thora Parippu,Root Rot,Roots dry.,Treat seeds with Carbendazim.
+Kidney Beans,Rajma,Anthracnose,Black sunken lesions.,Spray Copper Oxychloride.
+Kidney Beans,Rajma,Bean Rust,Reddish-brown pustules.,Apply Sulphur dust.
+Kidney Beans,Rajma,Bacterial Blight,Water-soaked spots.,Spray Copper Hydroxide.
+Kidney Beans,Rajma,Bean Fly,Seedlings wilt.,Apply Dimethoate.
+Kidney Beans,Rajma,Aphids,Curling leaves.,Spray Neem oil.
+Kidney Beans,Rajma,White Mold,White fluffy growth.,Apply Carbendazim.
+Kidney Beans,Rajma,Mosaic Virus,Yellow mottling.,Control aphids.
+Kidney Beans,Rajma,Pod Borer,Holes in pods.,Spray Cypermethrin.
+Moth Beans,Moth Beans,Yellow Mosaic,Yellow patches.,Control whiteflies.
+Moth Beans,Moth Beans,Root Rot,Roots decay.,Seed treatment.
+Moth Beans,Moth Beans,Leaf Spot,Circular spots.,Spray Mancozeb.
+Moth Beans,Moth Beans,Hairy Caterpillar,Defoliation.,Spray Chlorpyrifos.
+Moth Beans,Moth Beans,Whitefly,Tiny white insects.,Yellow traps.
+Moth Beans,Moth Beans,Powdery Mildew,White powder.,Spray Sulphur.
+Moth Beans,Moth Beans,Bacterial Spot,Water-soaked spots.,Spray Copper.
+Moth Beans,Moth Beans,Jassids,Hopper burn.,Spray Dimethoate.
+Black Gram,Ulundu,Powdery Mildew,White powdery growth.,Spray Sulphur.
+Black Gram,Ulundu,Yellow Mosaic,Yellow patches.,Control whitefly.
+Black Gram,Ulundu,Leaf Crinkle,Leaves crinkled.,Control aphids.
+Black Gram,Ulundu,Root Rot,Bark shreds.,Seed treatment.
+Black Gram,Ulundu,Anthracnose,Sunken spots.,Spray Mancozeb.
+Black Gram,Ulundu,Pod Borer,Webbed pods.,Spray Spinosad.
+Black Gram,Ulundu,Stem Fly,Stem swells.,Seed treatment.
+Black Gram,Ulundu,Leaf Spot,Reddish spots.,Spray Carbendazim.

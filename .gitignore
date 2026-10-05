@@ -1,0 +1,18 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Model Weights (to prevent GitHub 100MB block)
+*.safetensors
+*.bin
+*.pt
+*.onnx
+
+# General Logs
+*.log
